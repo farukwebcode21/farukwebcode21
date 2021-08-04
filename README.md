@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Hi%20there%20&height=300&fontSize=100&textBg=true)
+
+
+
 - 👋 Hi, I’m @farukwebcode21
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...node.js
