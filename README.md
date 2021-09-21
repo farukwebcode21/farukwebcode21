@@ -29,6 +29,17 @@ You can click the Preview link to take a look at your changes.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Social%20Profile%20&height=80&fontSize=20&textBg=false)
+
+
+
+
+
+
+
+
+
+
 
 
 
