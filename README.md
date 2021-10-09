@@ -2,10 +2,9 @@
 
 
 
-- 👋 Hi, I’m @farukwebcode21
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...node.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Faruk Ahmad
+- 👀 I’m love ...coding
+- 🌱 I’m currently learning ...react
 - 📫 How to reach me ...saearch google
 
 <!---
