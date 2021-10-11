@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Web%20Developer%20&height=200&fontSize=50&textBg=true)
+
 
 
 
