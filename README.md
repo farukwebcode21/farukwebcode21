@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukwebcode21
 )](https://github.com/farukwebcode21/github-readme-stats)
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/faruk.shadin)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +36,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
+# 🚀 Some Projects
+<details>
+  <summary>Honda CBR </summary>
+1. Live Demo: https://cbr300.netlify.app/
+2. Technology: HTML, CSS
+  </details>
 
 
 
