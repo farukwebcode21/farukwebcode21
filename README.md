@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m Faruk Ahmad
 - 👀 I’m love ...coding
-- 🌱 I’m currently learning ...react
-- 📫 How to reach me ...saearch google
+- 🌱 I’m currently learning Node, Express & MongoDb
+- 📫 My Portfolio Link :[Faruk Ahmad](https://farukwebcode21.github.io/portfolio/)
 
 <!---
 farukwebcode21/farukwebcode21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,10 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/farukwebcode21/github-readme-stats)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/faruk.shadin)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-ahmad-0795bbaa/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farukwebcode21)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,10 +42,11 @@ You can click the Preview link to take a look at your changes.
 
 # 🚀 Some Projects
 <details>
-  <summary>Honda CBR </summary>
-1. Live Demo: https://cbr300.netlify.app/
-2. Technology: HTML, CSS
-  </details>
+<summary>Honda CBR </summary>
+  
+  1. Live Demo: https://cbr300.netlify.app/
+  2. Technology: HTML, CSS, Bootstrap
+ </details>
 
 
 
