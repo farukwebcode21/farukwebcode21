@@ -41,13 +41,101 @@ You can click the Preview link to take a look at your changes.
 
 
 # 🚀 Some Projects
+
+
 <details>
 <summary>Honda CBR </summary>
   
   1. Live Demo: https://cbr300.netlify.app/
   2. Technology: HTML, CSS, Bootstrap
  </details>
-
+ 
+ <details>
+<summary>Health Service </summary>
+  
+  1. Live Demo: https://health-care-5b2d5.web.app/
+  2. Technology: HTML, CSS, Bootstrap, React, Firebase, React-Router
+ </details>
+ 
+ <details>
+<summary>Rolex Barand Shop </summary>
+  
+  1. Live Demo: https://nish-website-9cda1.web.app/
+  2. Technology: HTML, CSS, Bootstrap, React, Firebase, React-Router, Node, MongoDB, 
+ </details>
+ 
+  <details>
+  
+<summary>Clothing Barand Shop </summary>
+  
+  1. Live Demo: https://react-firebase-authenatication.web.app/
+  2. Technology: HTML, CSS, Bootstrap, React, Firebase, React-Router, Node, MongoDB, 
+ </details>
+ 
+  <details>
+<summary>Book Search </summary>
+  
+  1. Live Demo: https://sleepy-pike-e1641e.netlify.app/
+  2. Technology: HTML, CSS, Javascript
+ </details>
+ 
+  <details>
+<summary> Shop </summary>
+  
+  1. Live Demo: https://hardcore-mccarthy-0302e6.netlify.app/
+  2. Technology: HTML, CSS, Bootstrap, Javascript
+ </details>
+ 
+  <details>
+<summary>Movie Actors </summary>
+  
+  1. Live Demo: https://bahabuli-3.netlify.app/
+  2. Technology: HTML, CSS, Bootstrap, React, 
+ </details>
+ 
+   <details>
+<summary>Teaching Service </summary>
+  
+  1. Live Demo: https://dreamy-bardeen-40d165.netlify.app/
+  2. Technology: HTML, CSS, Bootstrap, React, 
+ </details>
+ 
+  <details>
+<summary>Travel Agency Service </summary>
+  
+  1. Live Demo: https://fir-login-e47cc.web.app/
+  2. Technology: HTML, CSS, Bootstrap, React, 
+ </details>
+ 
+ 
+  <details>
+<summary>Free Country API Call </summary>
+  
+  1. Live Demo:https://country-api-v3.pages.dev/ 
+  2. Technology: HTML, CSS, Bootstrap, Javascript, 
+ </details>
+ 
+  <details>
+<summary>MealDB API Call </summary>
+  
+  1. Live Demo: https://mealdb-tailwindcss.pages.dev/home
+  2. Technology: HTML, CSS, Bootstrap, Javascript, 
+ </details>
+ 
+  <details>
+<summary> Emajon Ecommerce</summary>
+  
+  1. Live Demo: https://emajon-test.pages.dev/
+  2. Technology: HTML, CSS, Bootstrap, Javascript, 
+ </details>
+ 
+ 
+  <details>
+<summary> Movei Api Call</summary>
+  
+  1. Live Demo: https://farukwebcode21.github.io/movie/index.html
+  2. Technology: HTML, CSS, Bootstrap, Javascript, 
+ </details>****
 
 
 
