@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m Faruk Ahmad
 - 👀 I’m love ...coding
-- 🌱 I’m currently learning Node, Express & MongoDb
-- 📫 My Portfolio Link :[Faruk Ahmad](https://farukwebcode21.github.io/portfolio/)
+- 🌱 I’m currently Searching Intern
+- 📫 My Portfolio Link :[Faruk Ahmad](https://farukahmad.netlify.app/)
 
 <!---
 farukwebcode21/farukwebcode21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
