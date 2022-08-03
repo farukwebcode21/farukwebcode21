@@ -1,5 +1,5 @@
 
-![https://farukahmad.netlify.app/](./images/Faruk_linked.png)
+<!-- ![https://farukahmad.netlify.app/](./images/Faruk_linked.png)-->
 
 <!-- 
 - 👋 Hi, I’m Faruk Ahmad
