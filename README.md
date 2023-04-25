@@ -1,6 +1,6 @@
 
 <!-- ![https://farukahmad.netlify.app/](./images/Faruk_linked.png)-->
-![](https://komarev.com/ghpvc/?username=farukwebcode21)
+
 
 <!-- 
 - 👋 Hi, I’m Faruk Ahmad
