@@ -1,9 +1,9 @@
 
-<!-- ![https://farukahmad.netlify.app/](./images/Faruk_linked.png)-->
+![https://farukahmad.netlify.app/](./images/Faruk_linked.png)
 
 
- 
-- 👋 Hi, I’m Faruk Ahmad
+ # Hi I'm Faruk Ahamd 👋
+
 - 👀 I’m love ...coding
 - 🌱 I’m currently Searching Intern -->
 - 📫 My Portfolio Link :[Faruk Ahmad](https://farukahmad.netlify.app/)
