@@ -1,5 +1,5 @@
 
-![https://farukahmad.netlify.app/](./images/Faruk_linked.png)
+<!-- ![https://farukahmad.netlify.app/](./images/Faruk_linked.png) -->
 
 
  # Hi I'm Faruk Ahamd 👋
@@ -13,8 +13,10 @@ farukwebcode21/farukwebcode21 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 
 ![farukwebcode21's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukwebcode21&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukwebcode21
-)](https://github.com/farukwebcode21/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukwebcode21
+)](https://github.com/farukwebcode21/github-readme-stats) -->
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/faruk.shadin)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-ahmad-0795bbaa/)
