@@ -1,5 +1,5 @@
 
-<!-- ![https://farukahmad.netlify.app/](./images/Faruk_linked.png) -->
+![https://farukahmad.netlify.app/](./images/Faruk_linked.png)
 
 
 
@@ -10,7 +10,7 @@ I'm a passionate MERN stack developer, transforming ideas into reality through e
 
 - 📫 My Portfolio Link :[Faruk Ahmad](https://farukahmad.netlify.app/)
 
-![farukwebcode21's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukwebcode21&show_icons=true&theme=radical)
+<!-- ![farukwebcode21's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukwebcode21&show_icons=true&theme=radical) -->
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/faruk.shadin)
